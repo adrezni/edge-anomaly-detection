@@ -55,18 +55,3 @@ python3 wsgi.py
 gunicorn wsgi:application -b 0.0.0.0:8080
 ```
 
-## Team Members
-
-1. Audrey Reznik
-1. Cameron Garrison
-1. Christina Xu
-1. Cory Latschkowski
-1. Eli Guidera
-1. Trevor Royer
-1. Troy Nelson
-
-## Meeting Information
-
-Meetings are held every Thursday, 9-10 MST
-
-Contact Audrey Reznik (areznik@redhat.com) for questions/comments/contributions.
